@@ -1,0 +1,12 @@
+.is-hidden {
+  display: none;
+}
+
+.js-gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 10px;
+}
